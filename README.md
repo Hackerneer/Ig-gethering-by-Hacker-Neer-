@@ -25,5 +25,4 @@ pip install instaloader
 ```
 ```
 python ig.py
-```
-```
+
