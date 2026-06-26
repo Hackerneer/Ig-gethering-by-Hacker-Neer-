@@ -22,3 +22,6 @@ cd Ig-gethering-by-Hacker-Neer-
 pip install instaloader
 
 python ig.py
+
+### One line command:
+visit : <a href="https://youtube.com/@hackerneer?si=fUNTuASFJbWWed46/</a>
